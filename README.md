@@ -1,4 +1,4 @@
-# setupGitRepo
+# Set Up Git Repo
 Simple steps to create and manage Git Repo
 
 1. Create a repository in GitHub
