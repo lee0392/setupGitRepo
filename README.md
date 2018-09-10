@@ -25,7 +25,7 @@ git commit -m "my first commit"
 
 6. To add the local repository as an origin for the targeted git hub repository (the one created in step 1)
 
-git remote add origin <repository link>
+git remote add origin <<repository link>>
 
 7. To push the files from local repository to the git hub repository
 
